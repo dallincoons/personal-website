@@ -1,16 +1,16 @@
 <template>
   <div id="app">
-    <HelloWorld />
+    <LandingPage />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import LandingPage from './components/LandingPage.vue'
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    LandingPage
   }
 }
 </script>
@@ -21,6 +21,5 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #000;
-  /*margin-top: 60px;*/
 }
 </style>
