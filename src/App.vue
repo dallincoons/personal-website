@@ -124,7 +124,7 @@ ul {
   line-height: 55px;
   font-weight: 700;
   margin: 0;
-  margin-bottom: 1rem;
+  margin-bottom: .2rem;
 }
 
 .no-underline {
@@ -134,10 +134,12 @@ ul {
 .sub-title {
   margin: 0;
   font-size: 16px;
+  font-weight: 300;
 }
 
 .sub-title-1 {
   grid-row: 2;
+  margin-bottom: .3rem;
 }
 
 .sub-title-2 {
