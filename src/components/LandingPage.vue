@@ -51,13 +51,6 @@
                     <p class="article-meta-data">October 10, 2018</p>
                     <p class="article-preview">Not everyone is in love with the Repository Pattern, which is understandable, because it has a way of complicating things and adding a lot of seemingly unneccessary code, especially in small, Active Record style apps.</p>
               </li>
-              <li class="article">
-                <a href="http://dallincoons.github.io/2016/06/01/Cache-factory-service.html" target="_blank">
-                    <h4 class="article-title">Cache Factory service</h4>
-                </a>
-                    <p class="article-meta-data">June 1, 2016</p>
-                    <p class="article-preview">In the process of creating an Angular service that uses the Http protocol to fetch data, I wanted a way to cache data.</p>
-              </li>
           </ul>
       </div>
 
