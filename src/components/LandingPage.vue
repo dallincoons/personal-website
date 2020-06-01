@@ -3,6 +3,13 @@
       <div class="section-wrapper">
           <ul class="list-of-articles">
               <li class="article">
+                  <a href="https://medium.com/@dallincoons/the-problem-with-accessors-and-mutators-in-laravel-c1f9a71d7b06" target="_blank">
+                      <h4 class="article-title">Ideas For Keeping Your Controllers Skinny</h4>
+                  </a>
+                  <p class="article-meta-data">May 17, 2020</p>
+                  <p class="article-preview">It’s important to keep in mind the responsibility of each class in your system.</p>
+              </li>
+              <li class="article">
                 <a href="https://medium.com/@dallincoons/the-problem-with-accessors-and-mutators-in-laravel-c1f9a71d7b06" target="_blank">
                     <h4 class="article-title">The Problem With Accessors and Mutators In Laravel</h4>
                 </a>
