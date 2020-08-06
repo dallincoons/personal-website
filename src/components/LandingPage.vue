@@ -3,7 +3,7 @@
       <div class="section-wrapper">
           <ul class="list-of-articles">
               <li class="article">
-                  <a href="https://medium.com/@dallincoons/the-problem-with-accessors-and-mutators-in-laravel-c1f9a71d7b06" target="_blank">
+                  <a href="https://medium.com/swlh/how-to-rapidly-introduce-tests-when-there-is-no-test-coverage-8bb07930a3ee" target="_blank">
                       <h4 class="article-title">How to Rapidly Introduce Tests When There Is No Test Coverage.</h4>
                   </a>
                   <p class="article-meta-data">July 19, 2020</p>
