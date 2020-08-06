@@ -4,6 +4,13 @@
           <ul class="list-of-articles">
               <li class="article">
                   <a href="https://medium.com/@dallincoons/the-problem-with-accessors-and-mutators-in-laravel-c1f9a71d7b06" target="_blank">
+                      <h4 class="article-title">How to Rapidly Introduce Tests When There Is No Test Coverage.</h4>
+                  </a>
+                  <p class="article-meta-data">July 19, 2020</p>
+                  <p class="article-preview">Introducing test coverage into an existing codebase is a daunting challenge.</p>
+              </li>
+              <li class="article">
+                  <a href="https://medium.com/@dallincoons/the-problem-with-accessors-and-mutators-in-laravel-c1f9a71d7b06" target="_blank">
                       <h4 class="article-title">Ideas For Keeping Your Controllers Skinny</h4>
                   </a>
                   <p class="article-meta-data">May 17, 2020</p>
