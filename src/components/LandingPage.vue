@@ -3,6 +3,13 @@
       <div class="section-wrapper">
           <ul class="list-of-articles">
               <li class="article">
+                  <a href="https://medium.com/@dallincoons/ego-kills-quality-guidelines-for-code-review-b1ff83e8d733" target="_blank">
+                      <h4 class="article-title">Ego Kills Quality: Guidelines For Code Review</h4>
+                  </a>
+                  <p class="article-meta-data">January 13, 2024</p>
+                  <p class="article-preview">Software development isn’t about software. Software is a big part of software development, of course, but there’s so much more to it.</p>
+              </li>
+              <li class="article">
                   <a href="https://medium.com/swlh/how-to-rapidly-introduce-tests-when-there-is-no-test-coverage-8bb07930a3ee" target="_blank">
                       <h4 class="article-title">How to Rapidly Introduce Tests When There Is No Test Coverage.</h4>
                   </a>
